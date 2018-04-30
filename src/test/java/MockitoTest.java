@@ -34,6 +34,6 @@ public class MockitoTest {
         verify(list).get(0);  
           
         //junit测试  
-        Assert.assertEquals("helloworld", result);  
-    }  
+        Assert.assertEquals("helloworld1", result);  
+    }
 }  
